@@ -26,7 +26,7 @@ while x >= 0:
 
 #we are joining all the items in the reversed array and specifying '' as the character 
 # we want between the character in the string ('' aka nothing)
-reversedString = ''.join(reversedArray)
+reversedString = '--'.join(reversedArray)
 
 #print out the reversed string with a little bit of info concatenated to show the user what 
 #we're looking at
